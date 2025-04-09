@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Classic 1965 Ford Mustang",
+      "description": "A beautifully preserved 1965 Mustang, the icon of American muscle cars. Perfect for collectors and vintage car lovers.",
+      "currentBidPrice": 12500,
+      "timeLeft": "2d 4h",
+      "bidsCount": 14,
+      "image": "https://i.ibb.co/Z1J9prWc/samuele-errico-piccarini-FMb-WFDi-VRPs-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Michael Schumacher F1 Race Suit Display",
+      "description": "A legendary piece of motorsport memorabilia – authentic race suit signed by Michael Schumacher, ideal for F1 fans.",
+      "currentBidPrice": 4500,
+      "timeLeft": "1d 18h",
+      "bidsCount": 27,
+      "image": "https://i.ibb.co/rGLyd7J1/peter-broomfield-m3m-ln-R90u-M-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "title": "First Edition Porsche 911 Manual",
+      "description": "Own the original owner's manual from the launch of the Porsche 911 – a rare piece of automotive literature history.",
+      "currentBidPrice": 89000,
+      "timeLeft": "3d 12h",
+      "bidsCount": 9,
+      "image": "https://i.ibb.co/5WZB0vCt/jon-koop-kh-YVy-Hi-NZo0-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Vintage Louis Vuitton Car Trunk",
+      "description": "Luxury and auto heritage combine in this custom Louis Vuitton trunk designed for classic touring cars.",
+      "currentBidPrice": 16800,
+      "timeLeft": "5h 30m",
+      "bidsCount": 21,
+      "image": "https://i.ibb.co/jk6wy1TP/chris-barbalis-9ql-SGW-Lg-Ks-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Banksy Car Hood Art Installation",
+      "description": "Original Banksy graffiti painted on a salvaged car hood – a fusion of urban art and auto culture.",
+      "currentBidPrice": 135000,
+      "timeLeft": "6d 7h",
+      "bidsCount": 4,
+      "image": "https://i.ibb.co/j9T7kVqq/dan-gold-N7-Ri-Dzf-F2iw-unsplash.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Ferrari Enzo Die-Cast Collector's Model",
+      "description": "This 1:18 scale Ferrari Enzo die-cast model is a highly detailed piece for car collectors and Ferrari enthusiasts.",
+      "currentBidPrice": 750,
+      "timeLeft": "12h 20m",
+      "bidsCount": 11,
+      "image": "https://i.ibb.co/rGWh0rhS/grahame-jenkins-p7tai9-P7-H-s-unsplash.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Antique Japanese Car Sword Shift Lever",
+      "description": "A handcrafted katana-inspired gear shift from a 1970s Japanese sports car – rare and stylish collector’s item.",
+      "currentBidPrice": 22000,
+      "timeLeft": "1d 2h",
+      "bidsCount": 17,
+      "image": "https://i.ibb.co/5WCwv1xN/joey-banks-YApi-Wyp0lqo-unsplash.jpg"
+    }
+  ]
+  
