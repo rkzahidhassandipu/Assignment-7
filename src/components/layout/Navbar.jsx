@@ -11,10 +11,10 @@ const Navbar = () => {
         </div>
         <div className="navbar-center">
           <ul className="flex">
-            <li className="px-10 text-xl"><a href="">Home</a></li>
-            <li className="px-10 text-xl"><a href="">Auctions</a></li>
-            <li className="px-10 text-xl"><a href="">Categories</a></li>
-            <li className="px-10 text-xl"><a href="">How to works</a></li>
+            <li className="px-5 text-xl"><a href="">Home</a></li>
+            <li className="px-5 text-xl"><a href="">Auctions</a></li>
+            <li className="px-5 text-xl"><a href="">Categories</a></li>
+            <li className="px-5 text-xl"><a href="">How to works</a></li>
           </ul>
         </div>
         <div className="navbar-end">
