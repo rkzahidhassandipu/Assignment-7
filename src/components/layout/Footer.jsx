@@ -5,7 +5,7 @@ const Footer = () => {
     <div>
       <footer className="footer footer-horizontal footer-center bg-base-200 text-base-content rounded p-10">
         <div>
-            <img src="https://i.ibb.co/FLZh33k1/Auction-Gallery.png" alt="" />
+            <img src="https://i.postimg.cc/B6bd7frC/Auction-Gallery.png" alt="" />
         </div>
         <ul className="flex">
             <li className="text-2xl">

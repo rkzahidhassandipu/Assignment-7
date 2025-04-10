@@ -7,7 +7,7 @@ const Navbar = () => {
       <div className="navbar mx-auto w-4/5 py-5">
         <div className="navbar-start ">
           <div>
-            <img src="https://i.ibb.co/FLZh33k1/Auction-Gallery.png" alt="" />
+            <img src="https://i.postimg.cc/B6bd7frC/Auction-Gallery.png" alt="" />
           </div>
         </div>
         <div className="navbar-center">
