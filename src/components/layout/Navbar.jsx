@@ -18,7 +18,7 @@ const Navbar = () => {
           </ul>
         </div>
         <div className="navbar-end">
-          <button className="btn btn-ghost btn-circle">
+          <button className="btn btn-ghost btn-circle mx-3">
             <div className="indicator">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -38,7 +38,7 @@ const Navbar = () => {
               <span className="badge badge-xs badge-primary indicator-item"></span>
             </div>
           </button>
-          <button className="btn btn-ghost btn-circle">
+          <button className="btn btn-ghost btn-circle mx-3">
             <img
               className="rounded-full"
               src="https://www.w3schools.com/howto/img_avatar2.png"
