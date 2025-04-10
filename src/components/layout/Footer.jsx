@@ -27,7 +27,7 @@ const Footer = () => {
         </nav>
         <aside>
           <p>
-            ©{new Date().getFullYear()}   AuctionHub. All rights reserved.
+            ©{new Date().getFullYear()} AuctionHub. All rights reserved.
           </p>
         </aside>
       </footer>
