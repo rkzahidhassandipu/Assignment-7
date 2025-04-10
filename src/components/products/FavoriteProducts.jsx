@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { TiDelete } from "react-icons/ti";
-import { ToastContainer, toast } from 'react-toastify';
+import { toast } from 'react-toastify';
 
 
 const FavoriteProducts = ({ favoriteProduct, removeFromFavorite }) => {
@@ -28,7 +28,7 @@ const FavoriteProducts = ({ favoriteProduct, removeFromFavorite }) => {
                 </h4>
                 <div className="grid grid-cols-2 py-3">
                     <h5 className="text-left text-blue-900 text-base">
-                        $ {currentBidPrice}
+                        $ {currentBidPrice.toLocaleString()}
                     </h5>
                     <h5 className="text-left text-blue-900 text-base">
                     Bids: {bidsCount}

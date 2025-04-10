@@ -11,7 +11,7 @@ const Product = ({product, handleFavoriteProducts}) => {
             <img className="w-40 mr-5 rounded-lg" src={image} alt="" />
             <h4 className="text-blue-900 font-semibold text-base">{title}</h4>
         </td>
-        <td className="text-center text-blue-900 font-semibold text-base">$ {currentBidPrice}</td>
+        <td className="text-center text-blue-900 font-semibold text-base">$ {currentBidPrice.toLocaleString()}</td>
         <td className="text-center text-blue-900 font-semibold text-base">{timeLeft}</td>
         <td>
           <FavoriteBtn product={product} handleFavoriteProducts={handleFavoriteProducts} />

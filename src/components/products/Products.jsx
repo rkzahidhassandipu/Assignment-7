@@ -89,7 +89,7 @@ const Products = ({ fetchProducts }) => {
               </div>
               <div className="flex justify-between text-2xl p-5">
                 <span className="">Total bids Amount: </span>
-                <span>$ {totalPrice}</span>
+                <span>$ {totalPrice.toLocaleString()}</span>
               </div>
             </div>
           </div>
