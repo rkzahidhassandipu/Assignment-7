@@ -1,6 +1,7 @@
 import React from "react";
 
 const Navbar = () => {
+  
   return (
     <div className="bg-base-100 shadow-sm">
       <div className="navbar mx-auto w-4/5 py-5">
