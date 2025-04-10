@@ -42,7 +42,7 @@ const Products = ({ fetchProducts }) => {
           <div className="overflow-x-auto flex-4/6 bg-white rounded-2xl my-6">
             <table className="table">
               {/* head */}
-              <thead>
+              <thead className="py-7">
                 <tr className="border-b-2 border-blue-100 text-base">
                   <th>Items</th>
                   <th>Current Bid</th>
